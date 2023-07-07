@@ -4,4 +4,4 @@ class classe:
         self.moyenne = moyenne
 
     def moyenne_classe(self):
-        moyenne = 
+        pass
